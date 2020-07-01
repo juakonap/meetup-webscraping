@@ -1,8 +1,8 @@
 ![alt text](https://secure.meetupstatic.com/photos/event/8/8/6/5/highres_490894917.jpeg)
 
 [![PyPI](https://img.shields.io/pypi/v/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)
+[![PyPI - Implementation](https://img.shields.io/pypi/implementation/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)
 ![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)
 [![PyPI - License](https://img.shields.io/pypi/l/virtualenv?style=flat-square)](https://opensource.org/licenses/MIT)
 
 
@@ -12,7 +12,7 @@ El siguiente repositorio contiene el código fuente oficial de la charla ***Web 
 
 ## Herramientas utilizadas
 
-Para llevar a cabo los scrapers se utilizó 
+Para llevar a cabo los scrapers se utilizó Python 3.8, y creación de un ambiente virtual usando [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
 
 
