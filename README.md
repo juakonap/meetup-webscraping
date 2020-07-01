@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)
 [![PyPI - Implementation](https://img.shields.io/pypi/implementation/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)
-![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
+![Python Versions](https://img.shields.io/badge/Python-3.7-green.svg)
 [![PyPI - License](https://img.shields.io/pypi/l/virtualenv?style=flat-square)](https://opensource.org/licenses/MIT)
 
 
