@@ -4,7 +4,7 @@
 
 ![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
 
-API construida en Falcon y corriendo en Gunicorn como HTTP server y con Nginx como reverse proxy para scrapear info de empresas desde sitio web de SUNAT.
+El siguiente repositorio contiene el código fuente oficial de la charla "Web scraping en tiempos de cuarentena", dictada el día 1 de Julio de 2020 para la comunidad.
 
 ## Iniciar
 
