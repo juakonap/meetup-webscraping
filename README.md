@@ -3,7 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)
 [![PyPI - Implementation](https://img.shields.io/pypi/implementation/virtualenv?style=flat-square)](https://pypi.org/project/virtualenv)
 ![Python Versions](https://img.shields.io/badge/Python-3.7-green.svg)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04-blue.svg)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04 LTS-blue.svg)
 [![PyPI - License](https://img.shields.io/pypi/l/virtualenv?style=flat-square)](https://opensource.org/licenses/MIT)
 
 
@@ -13,9 +13,9 @@ El siguiente repositorio contiene el código fuente oficial de la charla ***Web 
 
 ## Herramientas utilizadas
 
-El proyecto general se montó en el OS Linux con distro Ubuntu v18.04, en una VM levantada en Google Cloud Platform (g1-small (1 vCPU, 1.7 GB memory)).
+El proyecto general se montó en el OS Ubuntu v18.04 LTS, en una VM levantada en Google Cloud Platform (g1-small (1 vCPU, 1.7 GB memory)).
 
-Para llevar a cabo los scrapers se utilizó Python v3.8, y creación de un ambiente virtual usando [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
+Para llevar a cabo los scrapers se utilizó Python v3.7, y creación de un ambiente virtual usando [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
 En el caso de simular el navegador web para realizar el scraping interactivo se utilizó selenium, con [Chromium](https://chromedriver.chromium.org/).
 
