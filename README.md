@@ -4,7 +4,7 @@
 
 ![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
 
-El siguiente repositorio contiene el código fuente oficial de la charla "Web scraping en tiempos de cuarentena", dictada el día 1 de Julio de 2020 para la comunidad.
+El siguiente repositorio contiene el código fuente oficial de la charla "Web scraping en tiempos de cuarentena", dictada el día 1 de Julio de 2020 para la comunidad. La información oficial se encuentra en el siguiente [link](https://www.meetup.com/Analytics-y-Python/events/271358503/).
 
 ## Iniciar
 
