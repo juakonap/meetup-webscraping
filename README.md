@@ -16,8 +16,11 @@ Para llevar a cabo los scrapers se utilizó Python 3.8, y creación de un ambien
 
 En el caso de simular el navegador web para realizar el scraping interactivo se utilizó selenium, con [Chromium](https://chromedriver.chromium.org/).
 
-Para el trabajo de imágenes se utilizó la API de [Tesseract]() en Python.
+Para el procesamiento de imágenes se utilizó la API de [Tesseract]() en Python.
 
+## Descripción del contenido
+
+La configuración del ambiente virtual para la replicabilidad de los resultados exhibidos se encuentra en el archivo [requirements.txt]()
 
 ## Autoría
 
