@@ -14,17 +14,11 @@ El siguiente repositorio contiene el código fuente oficial de la charla ***Web 
 
 Para llevar a cabo los scrapers se utilizó Python 3.8, y creación de un ambiente virtual usando [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
-En el caso de simular el navegador web para realizar el scraping interactivo se utilizó selenium, con el driver de chromedriver.
+En el caso de simular el navegador web para realizar el scraping interactivo se utilizó selenium, con [Chromium](https://chromedriver.chromium.org/).
 
-Para el trabajo de imágenes se utilizó la API de Tesseract en python.
-
-
-## Construido con
-
-* [Tesseract]()
-* [Chromium](https://chromedriver.chromium.org/) 
+Para el trabajo de imágenes se utilizó la API de [Tesseract]() en Python.
 
 
 ## Autoría
 
-* **Moebius Analítica** - [Github](https://github.com/moebius-analitica)
+* **Moebius Analítica** - [Webpage](https://www.moebius-analitica.cl/)
