@@ -4,23 +4,14 @@
 
 ![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
 
-El siguiente repositorio contiene el código fuente oficial de la charla *Web scraping en tiempos de cuarentena*, dictada el día 1 de Julio de 2020 para la comunidad. La información oficial se encuentra en el siguiente [link](https://www.meetup.com/Analytics-y-Python/events/271358503/).
+El siguiente repositorio contiene el código fuente oficial de la charla ***Web scraping en tiempos de cuarentena***, dictada el día 01-07-2020 para la comunidad. La información oficial del evento se encuentra en el siguiente [link](https://www.meetup.com/Analytics-y-Python/events/271358503/).
 
-## Iniciar
+## Herramientas utilizadas
 
-La implementación está hecha sobre contenedores Docker. Para instalar Docker, es necesario seguir la siguiente [guía](https://docs.docker.com/engine/install/).
+Para llevar a cabo los scrapers se utilizó ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
 
-El contenedor construye la api y corre el servidor HTTP (Gunicorn), para luego corre el reverse proxy (Nginx).
 
-Para ejecutar el contenedor, se debe primero construir la imagen:
 
-````
-docker build --pull --rm -t apisunat:latest .
-````
-
-Para luego correr la imagen y crear un contenedor:
-
-````
 docker run --rm -d -p {port}:{port}/tcp apisunat:latest
 ````
 
