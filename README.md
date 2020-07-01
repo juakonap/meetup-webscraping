@@ -21,6 +21,8 @@ En el caso de simular el navegador web para realizar el scraping interactivo se 
 
 Para el procesamiento de imágenes se utilizó la API de [Tesseract]() en Python.
 
+*Observación*: Dado que en esta charla, para la conversión de objetos .pdf a datos se realiza usando la librería [tabula-py](https://pypi.org/project/tabula-py/), en el ambiente de trabajo debe estar instalado Java 8+.
+
 ## Fuentes de datos públicas
 
 * Congreso: [Texto Ley N° 21.227 - Protección al Empleo](https://www.leychile.cl/Navegar?idNorma=1144080)
@@ -33,7 +35,7 @@ Para el procesamiento de imágenes se utilizó la API de [Tesseract]() en Python
 
 La configuración del ambiente virtual de Python para la replicabilidad de los resultados exhibidos se encuentra en el archivo [requirements.txt](https://github.com/juakonap/meetup-webscraping/edit/master/requirements.txt)
 
-Para aquellos que quieran acceder de forma inmediata a los datos, tenemos disponible el siguiente repositorio [Drive](https://drive.google.com/drive/folders/1WRNEnmRX9uDpkg7SyhW2gd5pplM4FRA4?usp=sharing) para que accedan de forma libre.
+Para aquellos que quieran obtener los datos de forma inmediata, tenemos disponible el siguiente repositorio [Drive](https://drive.google.com/drive/folders/1WRNEnmRX9uDpkg7SyhW2gd5pplM4FRA4?usp=sharing) para que accedan de forma libre.
 
 ## Autoría
 
