@@ -30,6 +30,7 @@ Para el procesamiento de imágenes se utilizó la API de [Tesseract](https://git
 * Dirección del Trabajo: [Consulta pública de multas ejecutoriadas](https://ventanilla.dirtrab.cl/RegistroEmpleador/consultamultas.aspx)
 * SII: [Situación tributaria de Terceros](https://zeus.sii.cl/cvc/stc/stc.html)
 * SII: [Información (complementaria) de personas Jurídicas y Empresas](http://www.sii.cl/sobre_el_sii/nominapersonasjuridicas.html)
+* Complementario: [Información MP](https://api.mercadopublico.cl/modules/api.aspx)
 
 ## Descripción del contenido
 
