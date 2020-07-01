@@ -1,8 +1,8 @@
+![alt text](https://secure.meetupstatic.com/photos/event/8/8/6/5/highres_490894917.jpeg)
+
 # Meetup Analytics & Python 1 de Julio: Web scraping en tiempos de cuarentena
 
 ![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
-
-![alt text](https://secure.meetupstatic.com/photos/event/8/8/6/5/highres_490894917.jpeg)
 
 API construida en Falcon y corriendo en Gunicorn como HTTP server y con Nginx como reverse proxy para scrapear info de empresas desde sitio web de SUNAT.
 
