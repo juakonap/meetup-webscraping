@@ -23,9 +23,9 @@ Para el procesamiento de imágenes se utilizó la API de [Tesseract]() en Python
 
 ## Fuentes de datos públicas
 
-* Congreso: [Texto Ley N° 21.227: Protección al Empleo](https://www.leychile.cl/Navegar?idNorma=1144080)
+* Congreso: [Texto Ley N° 21.227 - Protección al Empleo](https://www.leychile.cl/Navegar?idNorma=1144080)
 * Dirección del Trabajo: [Nómina de empresas acogidas a la Ley 21.227](https://www.dt.gob.cl/portal/1626/w3-article-118613.html)
-* Dirección del TRabajo: [Consulta pública de multas ejecutoriadas](https://ventanilla.dirtrab.cl/RegistroEmpleador/consultamultas.aspx)
+* Dirección del Trabajo: [Consulta pública de multas ejecutoriadas](https://ventanilla.dirtrab.cl/RegistroEmpleador/consultamultas.aspx)
 * SII: [Situación tributaria de Terceros](https://zeus.sii.cl/cvc/stc/stc.html)
 * SII: [Información (complementaria) de personas Jurídicas y Empresas](http://www.sii.cl/sobre_el_sii/nominapersonasjuridicas.html)
 
