@@ -21,7 +21,7 @@ En el caso de simular el navegador web para realizar el scraping interactivo se 
 
 Para el procesamiento de imágenes se utilizó la API de [Tesseract]() en Python.
 
-Observación: Dado que en esta charla, para la conversión de objetos .pdf a datos se realiza usando la librería [tabula-py](https://pypi.org/project/tabula-py/), en el ambiente de trabajo debe estar instalado Java 8+.
+*Observación*: Dado que en esta charla, para la conversión de objetos .pdf a datos se realiza usando la librería [tabula-py](https://pypi.org/project/tabula-py/), en el ambiente de trabajo debe estar instalado Java 8+.
 
 ## Fuentes de datos públicas
 
