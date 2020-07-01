@@ -31,7 +31,9 @@ Para el procesamiento de imágenes se utilizó la API de [Tesseract]() en Python
 
 ## Descripción del contenido
 
-La configuración del ambiente virtual de Python para la replicabilidad de los resultados exhibidos se encuentra en el archivo [requirements.txt]()
+La configuración del ambiente virtual de Python para la replicabilidad de los resultados exhibidos se encuentra en el archivo [requirements.txt](https://github.com/juakonap/meetup-webscraping/edit/master/requirements.txt)
+
+Para aquellos que quieran acceder de forma inmediata a los datos, tenemos disponible el siguiente repositorio [Drive](https://drive.google.com/drive/folders/1WRNEnmRX9uDpkg7SyhW2gd5pplM4FRA4?usp=sharing) para que accedan de forma libre.
 
 ## Autoría
 
