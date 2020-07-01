@@ -35,7 +35,7 @@ Observación: Dado que en esta charla, para la conversión de objetos .pdf a dat
 
 La configuración del ambiente virtual de Python para la replicabilidad de los resultados exhibidos se encuentra en el archivo [requirements.txt](https://github.com/juakonap/meetup-webscraping/edit/master/requirements.txt)
 
-Para aquellos que quieran acceder de forma inmediata a los datos, tenemos disponible el siguiente repositorio [Drive](https://drive.google.com/drive/folders/1WRNEnmRX9uDpkg7SyhW2gd5pplM4FRA4?usp=sharing) para que accedan de forma libre.
+Para aquellos que quieran obtener los datos de forma inmediata, tenemos disponible el siguiente repositorio [Drive](https://drive.google.com/drive/folders/1WRNEnmRX9uDpkg7SyhW2gd5pplM4FRA4?usp=sharing) para que accedan de forma libre.
 
 ## Autoría
 
