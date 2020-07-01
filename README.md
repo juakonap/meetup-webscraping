@@ -2,13 +2,11 @@
 
 # Meetup Analytics & Python 1 de Julio: Web scraping en tiempos de cuarentena
 
-![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
-
 El siguiente repositorio contiene el código fuente oficial de la charla ***Web scraping en tiempos de cuarentena***, dictada el día 01-07-2020 para la comunidad. La información oficial del evento se encuentra en el siguiente [link](https://www.meetup.com/Analytics-y-Python/events/271358503/).
 
 ## Herramientas utilizadas
 
-Para llevar a cabo los scrapers se utilizó ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+Para llevar a cabo los scrapers se utilizó ![Python Versions](https://img.shields.io/badge/Python-3.8-blue.svg)
 
 
 
