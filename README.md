@@ -19,7 +19,7 @@ Para llevar a cabo los scrapers se utilizó Python v3.7, y creación de un ambie
 
 En el caso de simular el navegador web para realizar el scraping interactivo se utilizó selenium, con [Chromium](https://chromedriver.chromium.org/).
 
-Para el procesamiento de imágenes se utilizó la API de [Tesseract]() en Python.
+Para el procesamiento de imágenes se utilizó la API de [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki) en Python.
 
 *Observación*: Dado que en esta charla, para la conversión de objetos .pdf a datos se realiza usando la librería [tabula-py](https://pypi.org/project/tabula-py/), en el ambiente de trabajo debe estar instalado Java 8+.
 
